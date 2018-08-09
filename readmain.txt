@@ -1,1 +1,2 @@
 Creating a new branch is qunuck AND simple.
+Creating anew branch is --no-ff model.
